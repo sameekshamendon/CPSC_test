@@ -1,9 +1,9 @@
 # CPSC_test
 Test repo for CPSC 4800
 
-#Description
+#  Description
 This ia sample project to learn github
 
-#Installation
+# Installation
 
-#Requirements
+# Requirements
